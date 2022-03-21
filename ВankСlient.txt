@@ -1,0 +1,6 @@
+id: 1,first_name:Tom,last_name:Radl,birth_date:1885-09-01
+id: 2,first_name:Alex,last_name:Astapchik,birth_date:1992-02-15
+id: 3,first_name:Harry,last_name:Potter,birth_date:1988-09-12
+id: 4,first_name:Stepan,last_name:Stepantsow,birth_date:1997-08-22
+id: 5,first_name:Donald,last_name:Trump,birth_date:1956-12-10
+id: 6,first_name:Kirill,last_name:Bach,birth_date:2020-01-02
